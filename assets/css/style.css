@@ -2265,3 +2265,5 @@ body{ padding-top: 122px; }
 @media (max-width: 520px){
   .service-areas .service-areas-list{ grid-template-columns: 1fr; }
 }
+
+.call-btn .call-short{display:none;}
